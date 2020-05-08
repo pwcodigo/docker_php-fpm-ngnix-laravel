@@ -1,4 +1,3 @@
-o
 # Lista de ambiente em docker
 ---
 #### Preparação para ambiente com Laravel
